@@ -1,4 +1,4 @@
-Start developing neumorphic web applications and pages using Neumorphism UI which makes use of the neumorphic design trend. It features over 200 individual components and 5 example pages.
+# ModernUI-Neumorphism
 
 ## Neumorphic components
 
