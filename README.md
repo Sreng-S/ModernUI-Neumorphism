@@ -89,8 +89,6 @@ Neumorphism UI
 .
 ├── README.md
 ├── gulpfile.js
-├── neumorphism-ui.zip
-├── package-lock.json
 ├── package.json
 └── src
     ├── assets
