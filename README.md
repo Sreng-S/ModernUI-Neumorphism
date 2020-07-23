@@ -1,12 +1,9 @@
 # ModernUI-Neumorphism
-
+=======================
 ## Neumorphic components
 
 All components are perfectly in compliance with the neumorphism design trend making use of the specific shadow and coloring attributes. Neumorphism UI also comes with the shadow inset style add-on.
 
-## Example pages
-
-Neumorphism UI comes with 13 example pages including an about, pricing, contact, log in and register pages. You can use these example pages to quickly set up a working website in no time.
 
 ## Full documentation
 
